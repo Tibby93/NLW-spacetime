@@ -1,3 +1,3 @@
-<P>
-   <img src=".github/Thumbnail.png" alt="demontração do projeto" width="100%" />
+<P align="center" >
+   <img src=".github/Thumbnail.png" alt="demonstração do projeto" width="100%" />
 </p>
