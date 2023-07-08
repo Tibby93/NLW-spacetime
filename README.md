@@ -8,7 +8,7 @@ Esse é um projeto responsivo de uma cápsula do tempo para exibir memórias em 
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido durante o NLW da Rocktseat cpm aas seguintes tecnologias:
+Esse projeto foi desenvolvido durante o NLW da Rocktseat com as seguintes tecnologias:
 
 - HTML
 - CSS
